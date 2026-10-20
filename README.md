@@ -13,9 +13,9 @@
 
 | Направление | Технологии и инструменты |
 | :--- | :--- |
-| **Язык и База** | <img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="Git" /> |
-| **ИИ и Нейросети** | <img src="https://shields.io" alt="Hugging Face" /> <img src="https://shields.io" alt="PyTorch" /> |
-| **Инструменты** | <img src="https://shields.io" alt="Cursor" /> <img src="https://shields.io" alt="GitHub" /> <img src="https://shields.io" alt="Google Colab" /> |
+| **Язык и База** | ![Python](https://shields.io) ![Git](https://shields.io) |
+| **ИИ и Нейросети** | ![Hugging Face](https://shields.io) ![PyTorch](https://shields.io) |
+| **Инструменты** | ![VS Code](https://shields.io) ![GitHub](https://shields.io) ![Google Colab](https://shields.io) |
 
 ---
 
@@ -32,9 +32,11 @@
 
 ### 📊 Моя активность на GitHub
 
+Каждая строчка кода в моих репозиториях и исправления багов будут отображаться в этой статистике:
+
 <p align="center">
-  <img width="48%" src="https://vercel.app" alt="GitHub Stats" />
-  <img width="48%" src="https://vercel.app" alt="Top Languages" />
+  <img height="180em" src="https://vercel.app" alt="GitHub Stats" />
+  <img height="180em" src="https://vercel.app" alt="Top Languages" />
 </p>
 
 ---
@@ -45,3 +47,4 @@
 
 *   ✈️ **Telegram:** [@konstr9](https://t.me)
 *   📧 **Email:** [k.kolhik@mail.ru](mailto:k.kolhik@mail.ru)
+
