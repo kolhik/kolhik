@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://demolab.com;🤖+Изучаю+Нейросети+как+сервис;🚀+Добро+пожаловать+в+мой+профиль!" alt="Typing SVG" />
-</p>
 # Привет! Я Tyutin Fedor 👋
 ### Начинающий Python-разработчик
 
@@ -16,14 +13,15 @@
 
 | Направление | Технологии и инструменты |
 | :--- | :--- |
-| **Язык и База** | ![Python](https://shields.io) ![Git](https://shields.io) |
-| **ИИ и Нейросети** | ![Hugging Face](https://shields.io) ![PyTorch](https://shields.io) |
-| **Инструменты** | ![Cursor](https://shields.io) ![GitHub](https://shields.io) ![Google Colab](https://shields.io) |
+| **Язык и База** | Python, Git |
+| **ИИ и Нейросети** | Hugging Face (Transformers / Diffusers), PyTorch |
+| **Инструменты** | Cursor (IDE), GitHub, Google Colab |
 
 ---
 
 ### 🚀 Мои учебные проекты (В процессе разработки)
 
+*Сюда можно будет добавлять ссылки на ваши репозитории, как только появятся первые скрипты.*
 
 **1. [Проект: Сервис на предобученной модели](https://github.com)**
 *   **Что это:** Веб-скрипт или API, использующий готовую модель (например, Stable Diffusion для генерации картинок или текстовую модель) и превращающий её в сервис для пользователя.
@@ -36,10 +34,8 @@
 
 Каждая строчка кода в моих репозиториях и исправления багов будут отображаться в этой статистике:
 
-<p align="center">
-  <img height="180em" src="https://vercel.app" alt="GitHub Stats" />
-  <img height="180em" src="https://vercel.app" alt="Top Languages" />
-</p>
+![GitHub Stats](https://vercel.app)
+![Top Languages](https://vercel.app)
 
 ---
 
@@ -49,4 +45,3 @@
 
 *   ✈️ **Telegram:** [@konstr9](https://t.me)
 *   📧 **Email:** [k.kolhik@mail.ru](mailto:k.kolhik@mail.ru)
-
