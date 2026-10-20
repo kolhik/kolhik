@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://demolab.com;🤖+Изучаю+Нейросети+как+сервис;🚀+Добро+пожаловать+в+мой+профиль!" alt="Typing SVG" />
+</p>
 # Привет! Я Tyutin Fedor 👋
 ### Начинающий Python-разработчик
 
